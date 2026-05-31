@@ -61,7 +61,7 @@ Le système suit un flux logique et automatisé :
 
 ## 🖼️ Aperçu du Workflow
 
-`![Workflow Diagram](workflow.png)`
+`![Workflow Diagram](images/workflow.png)`
 ---
 
 ## 📩 Vous voulez un système similaire ?
