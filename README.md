@@ -14,7 +14,7 @@ Le client faisait face à plusieurs points de friction qui freinaient sa croissa
 - **Réponse lente :** Le délai entre l'inscription et le premier contact était trop long, faisant perdre l'intérêt du prospect.
 - **Emails génériques :** L'absence de personnalisation réduisait le taux de réponse.
 - **Oublis de relance :** Sans système de rappel, beaucoup de prospects potentiels n'étaient jamais relancés.
-
+ 
 ---
 
 ## ✅ La Solution (Après)
