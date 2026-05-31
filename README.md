@@ -61,7 +61,7 @@ Le système suit un flux logique et automatisé :
 
 ## 🖼️ Aperçu du Workflow
 
-`![Workflow Diagram](C:\Users\pm of\Documents\projet_digital\Dr_Redim_screenshoots\workflow.png)`
+`![Workflow Diagram](workflow.png)`
 ---
 
 ## 📩 Vous voulez un système similaire ?
